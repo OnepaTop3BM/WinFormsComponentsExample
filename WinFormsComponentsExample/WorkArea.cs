@@ -6,7 +6,7 @@ namespace WinFormsComponentsExample
     {
         private List<ChartPicture> pictures = new List<ChartPicture>();
 
-        private static WorkArea instance;
+        private static WorkArea _instance;
 
         private WorkArea()
         {
@@ -14,9 +14,9 @@ namespace WinFormsComponentsExample
 
         public static WorkArea Instance()
         {
-            if (instance == null)
-                instance = new WorkArea();
-            return instance;
+            if (_instance == null)
+                _instance = new WorkArea();
+            return _instance;
         }
 
         public List<ChartPicture> Pictures

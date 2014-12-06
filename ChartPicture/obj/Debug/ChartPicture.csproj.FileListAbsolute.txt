@@ -1,0 +1,7 @@
+f:\Projects\WinFormsComponentsExample\ChartPicture\bin\Debug\ChartPicture.dll
+f:\Projects\WinFormsComponentsExample\ChartPicture\bin\Debug\ChartPicture.pdb
+f:\Projects\WinFormsComponentsExample\ChartPicture\obj\Debug\ChartPicture.dll
+f:\Projects\WinFormsComponentsExample\ChartPicture\obj\Debug\ChartPicture.pdb
+f:\Projects\WinFormsComponentsExample\ChartPicture\obj\Debug\ChartPicture.csprojResolveAssemblyReference.cache
+f:\Projects\WinFormsComponentsExample\ChartPicture\bin\Debug\Newtonsoft.Json.dll
+f:\Projects\WinFormsComponentsExample\ChartPicture\bin\Debug\Newtonsoft.Json.xml

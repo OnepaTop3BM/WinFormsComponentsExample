@@ -1,0 +1,12 @@
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\bin\Debug\WinFormsComponentsExample.exe
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\bin\Debug\WinFormsComponentsExample.pdb
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\obj\Debug\WinFormsComponentsExample.csprojResolveAssemblyReference.cache
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\obj\Debug\WinFormsComponentsExample.Form1.resources
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\obj\Debug\WinFormsComponentsExample.Properties.Resources.resources
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\obj\Debug\WinFormsComponentsExample.csproj.GenerateResource.Cache
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\obj\Debug\WinFormsComponentsExample.exe
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\obj\Debug\WinFormsComponentsExample.pdb
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\bin\Debug\ChartPicture.dll
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\bin\Debug\ChartPicture.pdb
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\bin\Debug\Newtonsoft.Json.dll
+f:\Projects\WinFormsComponentsExample\WinFormsComponentsExample\bin\Debug\Newtonsoft.Json.xml

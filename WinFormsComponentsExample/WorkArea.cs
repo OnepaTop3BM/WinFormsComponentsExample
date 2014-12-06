@@ -4,7 +4,7 @@ namespace WinFormsComponentsExample
 {
     public class WorkArea
     {
-        private List<ChartPicture> chartPictures = new List<ChartPicture>();
+        private List<ChartPicture> pictures = new List<ChartPicture>();
 
         private static WorkArea instance;
 
@@ -21,12 +21,12 @@ namespace WinFormsComponentsExample
 
         public List<ChartPicture> Pictures
         {
-            get { return chartPictures; }
+            get { return pictures; }
         }
 
         public void AddPicture(ChartPicture picture)
         {
-            chartPictures.Add(picture);
+            pictures.Add(picture);
         }
     }
 }
